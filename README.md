@@ -2,6 +2,8 @@
 <ul>
   <li>👨‍💻 Inquisitive and meticulous web developer with over 6 months of Front-end expertise, a passion for responsive website development, and a staunch believer in the mobile-first strategy.</li>
   <li>📫 <a href="mailto:omerfurkansen@gmail.com">To get in contact with me right away 😊</a></li>
+  <br/>
+  <i>“ It doesn't ever matter where you are from, it solely matters where you are going... ”</i>
 </ul>
 
 <h2> 💻 Skills</h2>
