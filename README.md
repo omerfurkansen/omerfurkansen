@@ -1,6 +1,7 @@
 <h1 align="center">Greetings, this is Omer Furkan!   <img src="assets/hi.gif" width="30px"></h1>
 <ul>
   <li>👨‍💻 Inquisitive and meticulous web developer with over 6 months of Front-end expertise, a passion for responsive website development, and a staunch believer in the mobile-first strategy.</li>
+  <li>🎯 I am fully committed to working as a Full Stack & Blockchain Developer.</li>
   <li>📫 <a href="mailto:omerfurkansen@gmail.com">To get in contact with me right away 😊</a></li>
   <br/>
   <i>“ It doesn't ever matter where you are from, it solely matters where you are going... ”</i>
@@ -19,6 +20,9 @@
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
+
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
