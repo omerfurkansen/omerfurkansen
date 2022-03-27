@@ -1,6 +1,6 @@
 <h1 align="center">Greetings, this is Omer Furkan!   <img src="assets/hi.gif" width="30px"></h1>
 <ul>
-  <li>👨‍💻 Inquisitive and meticulous web developer with over 6 months of Front-end expertise, a passion for responsive website development, and a staunch believer in the mobile-first strategy.</li>
+  <li>👨‍💻 Inquisitive and meticulous web developer with hands-on experience, a passion for responsive website development, and a deep interest in blockchain technology.</li>
   <li>🎯 I am fully committed to working as a Full Stack & Blockchain Developer.</li>
   <li>📫 <a href="mailto:omerfurkansen@gmail.com">To get in contact with me right away 😊</a></li>
   <br/>
