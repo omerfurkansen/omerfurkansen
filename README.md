@@ -1,4 +1,4 @@
-<h1 align="center">Greetings, this is Omer Furkan!   <img src="assets/hi.gif" width="30px"></h1>
+<h1 align="center">Greetings, this is Omer Furkan! 👋🏻</h1>
 <ul>
   <li>👨‍💻 Inquisitive and meticulous web developer with hands-on experience, a passion for responsive website development, and a deep interest in blockchain technology.</li>
   <li>🎯 I am fully committed to working as a Full Stack & Blockchain Developer.</li>
